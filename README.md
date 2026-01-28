@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Manal Nasser M Alessa
 
-<!--
-**manal-u/manal-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mission
+Security practitioner focused on system hardening, identity & access management (IAM), and professional security documentation.
 
-Here are some ideas to get you started:
+## Toolkit
+**Operating Systems:** Windows Server, Windows 10/11, Linux  
+**Security Tooling:** Group Policy (GPO), MMC Security Templates, Event Viewer, Windows Defender  
+**Scripting:** PowerShell, Python  
+**Core Areas:** IAM, policy enforcement, troubleshooting, documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Evidence (Pinned Projects)
+- Password Policy Baseline (GPO + Security Templates)
+- IAM Hardening (Active Directory user provisioning + permissions)
+- Perimeter Security (Firewall rules / network controls)
+
+## How to Verify My Work
+Each project repository includes:
+- `/proof` screenshots and logs
+- `/diagnostics` errors + fixes
+- step-by-step documentation in the README
