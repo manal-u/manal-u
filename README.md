@@ -10,7 +10,7 @@ Security practitioner focused on system hardening, identity & access management 
 **Core Areas:** IAM, policy enforcement, troubleshooting, documentation
 
 ## Featured Evidence (Pinned Projects)
-- Password Policy Baseline (GPO + Security Templates)
+- Password Policy Baseline (Windows Security – Sign-in Password Review)
 - IAM Hardening (Active Directory user provisioning + permissions)
 - Perimeter Security (Firewall rules / network controls)
 
